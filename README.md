@@ -1,14 +1,16 @@
 # Introduction
+
 ## Say Hi
 > Hey. I'm Sam, a front end developer and interface designer. I love to experiment with graphics and interactivity. Thanks for your coming and take a look at some of my little projects.
 
 ## Study Situation
 学过的编程语言有 `HTML` `CSS` `JavaScript`...
 ```js
-alert((!(~+[])+{})[--[~+""][+[]]*[~+[]] + ~~!+[]]+({}+[])[[~!+[]]*~+[]]); // ？？？
+alert((!(~+[])+{})[--[~+""][+[]]*[~+[]] + ~~!+[]]+({}+[])[[~!+[]]*~+[]]); // ?? WHY,VERY STRANGE
 ```
 
 ## Hobby
+
 >正直に言って、私はオタクです。
 * 以下は私の一番好きなアニメ
   * [スラムダンク](https://www.iqiyi.com/a_19rrhb244t.html)
@@ -29,3 +31,4 @@ alert((!(~+[])+{})[--[~+""][+[]]*[~+[]] + ~~!+[]]+({}+[])[[~!+[]]*~+[]]); // ？
 * The most anticipated game of this year
   * Cyberpunk 2077
 
++   …
